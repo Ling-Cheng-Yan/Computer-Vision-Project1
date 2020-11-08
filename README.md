@@ -1,1 +1,1 @@
-"# SolarPanel_BlobDetection_ForTest" 
+"# SolarPanel_BlobDetection And ObjectDetection_ForTest" 
