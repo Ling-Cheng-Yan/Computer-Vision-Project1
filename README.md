@@ -1,1 +1,1 @@
-"# SolarPanel BlobDetection And ObjectDetection For Testing." 
+"# SolarPanel BlobDetection And ObjectDetection." 
